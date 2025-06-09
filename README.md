@@ -1,4 +1,4 @@
-# Fake News Detection Multi-Agent System
+# Fake News Detection Multi-Agent Systems
 
 This project implements a multi-agent system for detecting fake news using a combination of AI techniques. The system consists of three main agents:
 
